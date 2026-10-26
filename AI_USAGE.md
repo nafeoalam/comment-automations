@@ -34,7 +34,3 @@ I built this with **Claude Code**, Anthropic's coding assistant, running in VS C
   - checked the SQL schema and its constraints against an embedded Postgres engine
   - rendered every diagram to confirm it is valid
   - ran the demo end to end
-
-## Author's review
-
-_To be completed by me before submission: what I reviewed, what I changed, and anything I disagree with._
